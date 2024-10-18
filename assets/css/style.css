@@ -93,5 +93,6 @@ body {
 }
 
 .completed {
+  display: block;
   text-decoration: line-through;
 }
